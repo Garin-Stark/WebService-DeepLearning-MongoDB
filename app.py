@@ -1,3 +1,6 @@
+##6D/19090146/GarinIrsyadChoriri
+##6B/19090085/NurulArifiahGunarsih
+
 import os
 
 import cv2
